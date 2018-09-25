@@ -1,7 +1,7 @@
 # ThingsThatSlowDownProject
 Practical List - This repo explains list of things that generally slow down the projects.
 
-1. Unclear requirements
+# 1. Unclear requirements
 Giving unclear requirements is worst thing that literally slow down to project progress.
 
 Impact:
