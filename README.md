@@ -12,3 +12,5 @@ Giving unclear requirements is worst thing that literally slow down to project p
 # 3. Doing things as they come
 
 In-Progress...
+
+### PRs are accepted
