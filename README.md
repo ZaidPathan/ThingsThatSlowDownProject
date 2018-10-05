@@ -11,6 +11,8 @@ Giving unclear requirements is worst thing that literally slow down to project p
 
 # 3. Doing things as they come
 
+# 4. Bad project manager
+
 In-Progress...
 
 ### PRs are accepted
