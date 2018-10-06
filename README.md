@@ -19,15 +19,17 @@ Giving unclear requirements is worst thing that literally slow down to project p
 
 # 7. Lack of effective project management
 
-# 8. Project complexity under-estimation
+# 8. Under estimating project complexity 
 
 # 9. Frequent changes in scope
 
 # 10. Improper code merging practice
 
-# 11. Improper resource utilization / improper tasks allocation
+# 11. Improper resource utilization
 
-# 12. unforeseen technical challenges
+# 12. Improper tasks allocation
+
+# 13. Unforeseen technical challenges
 
 In-Progress...
 
