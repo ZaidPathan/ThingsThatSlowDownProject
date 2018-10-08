@@ -31,6 +31,14 @@ Giving unclear requirements is worst thing that literally slow down to project p
 
 # 13. Unforeseen technical challenges
 
+# 14. Not identifying team gems💎
+
+# 15. Not categorising Main/Good to have/Optional tasks
+
+# 16. Not making project architecture
+
+# 17. Unclear communication
+
 In-Progress...
 
 ### PRs are accepted
